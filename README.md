@@ -1,4 +1,4 @@
 # MetaDataDrivenAcltr
 Spark ETL Project
 
-It Requires a Metadata Tables to make the checks Dynamic and Linear Transformation Enabled
+Metadata Driven Accelerator is a Spark Based Framework which takes input from Multiple Defined Table. It captures the error records and Audit enabled for now in MySQL. Also it allows user to perform linear operations on Data written in ANSI SQL Format
